@@ -9,8 +9,6 @@ ___
 **Для разработчика**\
 [Диаграммы структуры программы](https://miro.com/app/board/uXjVIQvh2jU=/?share_link_id=516848377608 "Miro")\
 [Папка с описательной документацией](https://disk.yandex.ru/d/55JDORjxKpipHw "Yandex drive link")\
-[Релиз коммит - сеть СибКом](https://172.16.40.15:3100/SybCom/DocumentSearcher/releases/tag/V2.1 "Gittea link")\
-[Релиз коммит - вне сети СибКом](https://213.183.100.1:3100/SybCom/DocumentSearcher/releases/tag/V2.1 "Gittea link")
 
 >## 🧑‍💻DocumentSearcher 2.0v🧑‍💻
 >👀Стоит задача проанализировать содержимое документов (не по смыслу, а по наличию ключевых слов)?👀
